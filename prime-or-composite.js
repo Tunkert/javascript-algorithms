@@ -16,7 +16,7 @@ function primeOrComposite(num) {
 	} else {
 	    console.log(i + " is a composite number.");
 	}
-	i++
+	i++;
     }
 }
 
